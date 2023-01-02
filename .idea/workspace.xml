@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="613182a1-9512-410e-b9a2-b9686e05550a" name="Changes" comment="" />
+    <list default="true" id="613182a1-9512-410e-b9a2-b9686e05550a" name="Changes" comment="git Main.java -m &quot;hello word&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -49,6 +54,35 @@
       <option name="presentableId" value="Default" />
       <updated>1672672314525</updated>
     </task>
+    <task id="LOCAL-00001" summary="git Main.java -m &quot;hello word&quot;">
+      <created>1672679940308</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1672679940308</updated>
+    </task>
+    <task id="LOCAL-00002" summary="git Main.java -m &quot;hello word&quot;">
+      <created>1672680048644</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672680048644</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git Main.java -m &quot;hello word&quot;">
+      <created>1672680096953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672680096953</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git Main.java -m &quot;hello word&quot;">
+      <created>1672680394341</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1672680394341</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,10 +90,36 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="MATCH_CASE" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git Main.java -m &quot;hello word&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="git Main.java -m &quot;hello word&quot;" />
   </component>
 </project>
